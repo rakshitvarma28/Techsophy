@@ -1,11 +1,11 @@
 # Techsophy
-# 🩺 Social Media Sentiment Dashboard
+# Social Media Sentiment Dashboard
 
 A real-time sentiment analysis dashboard built with Python, designed to track public sentiment trends for healthcare-related hashtags on Twitter (e.g., #MentalHealth).
 
 ---
 
-## 🚀 Features
+## Features
 
 - Collects live tweets using Twitter API (via Tweepy)
 - Analyzes sentiment using VADER (rule-based NLP model)
@@ -16,21 +16,21 @@ A real-time sentiment analysis dashboard built with Python, designed to track pu
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 This project solves the following problem statement:
 
 > **Build a tool that analyzes sentiment trends for specific topics or hashtags across social media. Use a healthcare-focused use case to demonstrate:**
 >
-> - ✅ AI/ML: Used VADER for sentiment scoring
-> - ✅ Critical Thinking: Handled text noise and sarcasm limitations
-> - ✅ Problem Solving: Dealt with API rate limits and data handling
-> - ✅ Modular Structure: Split code into `main.py` (data) and `app.py` (UI)
-> - ✅ Clear Architecture: API → NLP → CSV → Streamlit dashboard
+> - AI/ML: Used VADER for sentiment scoring
+> - Critical Thinking: Handled text noise and sarcasm limitations
+> - Problem Solving: Dealt with API rate limits and data handling
+> - Modular Structure: Split code into `main.py` (data) and `app.py` (UI)
+> - Clear Architecture: API → NLP → CSV → Streamlit dashboard
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 | Tech        | Use Case                         |
 |-------------|----------------------------------|
@@ -43,11 +43,3 @@ This project solves the following problem statement:
 | WordCloud   | Word cloud generation            |
 
 ---
-
-## ⚙️ How to Run It
-
-1. Clone the repo:
-
-```bash
-git clone https://github.com/rakshitvarma28/Techsophy.git
-cd Techsophy
