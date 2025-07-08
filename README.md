@@ -8,10 +8,8 @@ A real-time sentiment analysis dashboard built with Python, designed to track pu
 ## Features
 
 - Collects live tweets using Twitter API (via Tweepy)
-- Analyzes sentiment using VADER (rule-based NLP model)
+- Analyzes sentiment using VADER 
 - Displays sentiment trends over time
-- Shows most positive & negative tweets
-- Word cloud visualization
 - Summarizes average sentiment and tweet volume
 
 ---
@@ -40,6 +38,5 @@ This project solves the following problem statement:
 | Pandas      | Data manipulation                |
 | Streamlit   | Dashboard / web UI               |
 | Matplotlib  | Visualizations                   |
-| WordCloud   | Word cloud generation            |
 
 ---
